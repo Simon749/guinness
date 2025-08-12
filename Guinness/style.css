@@ -114,7 +114,7 @@ html, body {
 #page1_dog_image {
     height: 15vh;
     position: absolute;
-    top: 24%;
+    top: 22%;
     left: 34.5%;
     transform: rotate(-30deg);
 }
